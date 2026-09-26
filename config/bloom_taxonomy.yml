@@ -1,0 +1,10 @@
+skills:
+  remember:
+    score: 1
+    verbs:
+      - define
+      - identify
+      - recall
+    phrases:
+      - what is
+      - what are
